@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "scripts": {
     "build": "npm ci ng build --configuration=production",
-    "serve": "npx http-server -p 8080 dist/rudy-project"
+    "serve": "npx http-server -p 3000 dist/rudy-project"
   },
   "private": true,
   "dependencies": {
