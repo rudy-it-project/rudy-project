@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/',
+  basePath: '/rudy-project',
   supportedLocales: {
   "en-US": ""
 },

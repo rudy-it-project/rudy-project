@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+export default `<!DOCTYPE html>
 <html lang="nl">
     <head>
         <meta charset="utf-8">
-        <base href="/">
+        <base href="/rudy-project">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <!-- Title -->
@@ -20,4 +20,4 @@
 </script>
         <app-root></app-root>
     <link rel="modulepreload" href="chunk-W62YHMT6.js"><script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-ENT4E7CV.js" type="module"></script></body>
-</html>
+</html>`;
