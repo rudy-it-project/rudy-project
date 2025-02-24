@@ -2,7 +2,7 @@
   "name": "rudy-project",
   "version": "1.0.1",
   "scripts": {
-  "build": "ng build --configuration=production",
+  "build": "npm ci",
   "start": "node 3000 /browser/index.html"
   },
   "private": true,
