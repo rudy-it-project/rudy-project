@@ -1,0 +1,6 @@
+{
+  "routes": {
+    "/browser": {},
+    "/browser/blog-details": {}
+  }
+}
