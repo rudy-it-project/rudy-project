@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "scripts": {
   "build": "ng build --configuration=production",
-  "start": "npx http-server -p 3000 dist/rudy-project"
+  "start": "node /browser/index.html"
   },
   "private": true,
   "dependencies": {
