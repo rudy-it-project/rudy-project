@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "scripts": {
     "build": "npm ci",
-    "serve": "node 8080 /browser/index.html"
+    "serve": "npx http-server -p 8080 /browser/index.html"
   },
   "private": true,
   "dependencies": {
